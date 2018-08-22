@@ -62,5 +62,6 @@
         android:layout_marginTop="16dp"
         android:onClick="submitOrder"
         android:id="@+id/orderbutton"
-        android:text="Order" />
+        android:text="Order"
+        android:layout_margin="140dp"/>
 </LinearLayout>
